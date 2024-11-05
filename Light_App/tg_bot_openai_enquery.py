@@ -44,3 +44,5 @@ updater.dispatcher.add_handler(CommandHandler('status', status))
 # Start the bot and listen for messages
 updater.start_polling()
 updater.idle()
+
+
